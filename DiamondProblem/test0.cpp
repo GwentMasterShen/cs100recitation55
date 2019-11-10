@@ -30,7 +30,10 @@ public:
 };
 
 int main() {
-    
+	int ass = 0;
+	cout << ass;
 
     return 0;
 }
+
+//233
